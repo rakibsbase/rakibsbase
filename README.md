@@ -90,9 +90,9 @@ https://github.com/savecodes/artify-server
 
 ## ⚡ Next.js Full-Stack Project
 
-**Live:** *(Add link here)*  
+**Live:** *https://glowvera.vercel.app*  
 
-**Repository:** *(Add link here)*  
+**Repository:** *https://github.com/rakibsbase/glowvera*  
 
 ---
 
